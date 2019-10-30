@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellloNMC", "HellloNMC\HellloNMC.csproj", "{3814F340-563A-4A94-8D0C-AC2B1440D127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3814F340-563A-4A94-8D0C-AC2B1440D127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3814F340-563A-4A94-8D0C-AC2B1440D127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3814F340-563A-4A94-8D0C-AC2B1440D127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3814F340-563A-4A94-8D0C-AC2B1440D127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D99AC8F-4B1F-492B-8A94-8FE7AC81D4A4}
+	EndGlobalSection
+EndGlobal
